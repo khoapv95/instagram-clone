@@ -1,6 +1,6 @@
 # Instagram Clone
 
-This is a working MVP version of Instagram where I built all of the core components including Liking, Comments, Posts, Following users and Notifications
+This is a working MVP version of Instagram or a blueprint for any sort of social media app where I built all of the core components including Liking, Comments, Posts, Following users and Notifications, etc.
 
 ![Home](https://user-images.githubusercontent.com/40352754/151295134-8ddf0f18-5c32-4c7a-9e5d-0daea6854c9d.png)
 ![Search](https://user-images.githubusercontent.com/40352754/151295145-27018b28-c2c4-4163-a716-99ac85810aa8.png)
